@@ -178,6 +178,7 @@ public class GameActivity extends AppCompatActivity {
         }
     };
 
+    // end of turn method 
     public void endTurn(){
         for(int row = 0 ; row < numberOfPiles/2; row++){
             LinearLayout piles = rowsLinearLayout[row];
