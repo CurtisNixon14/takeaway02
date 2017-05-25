@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TakeAway</string>
+    <string name="action_settings">Configuración</string>
+    <string name="choose_different_pile">elegir diferentes pila</string>
+    <string name="eight_piles">8 pilas de monedas</string>
+    <string name="finish_turn">final vuelta</string>
+    <string name="four_piles">4 pilas de monedas</string>
+    <string name="input_description">Introduzca el número de monedas aquí</string>
+    <string name="number_of_piles">número de pilas</string>
+    <string name="number_of_piles_description">Mostrar 2,4,6 u 8 pilas de monedas</string>
+    <string name="pile1">- Pila  Uno - { %1$d }</string>
+    <string name="pile2">- Pila Dos - { %1$d }</string>
+    <string name="pile3">- Pila Tres - { %1$d }</string>
+    <string name="pile4">- Pila Quatro - { %1$d }</string>
+    <string name="pile5">- Pila Cinco - { %1$d }</string>
+    <string name="pile6">- Pila Seis - { %1$d }</string>
+    <string name="pile7">- Pila Siete - { %1$d }</string>
+    <string name="pile8">- Pila Ocho - { %1$d }</string>
+    <string name="player_turn">Jugador %1$d\'s a su vez</string>
+    <string name="reset_quiz">Reiniciar Juego</string>
+    <string name="six_piles">6 pilas de monedas</string>
+    <string name="start_game">Comience el juego</string>
+    <string name="takeaway_description">"Elija una de las cuatro selecciones por encima para indicar cuántos montones de monedas que le gustaría en el juego. Tomar como muchas monedas como usted tiene gusto de una pila por vuelta hasta que no hay más monedas en cualquier pila. ¡La última de ellas a tomar monedas gana! "</string>
+    <string name="takeaway_game">TakeAway Juego</string>
+    <string name="two_piles">2 pilas de monedas</string>
+</resources>

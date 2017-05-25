@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TakeAway</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="choose_different_pile">Choisissez différents tas</string>
+    <string name="eight_piles">8 piles de pièces</string>
+    <string name="finish_turn">Terminer le tour</string>
+    <string name="four_piles">4 piles de pièces</string>
+    <string name="six_piles">6 piles de pièces</string>
+    <string name="two_piles">2 piles de pièces</string>
+    <string name="input_description">Entrez le nombre de pièces ici</string>
+    <string name="number_of_piles">Nombre de Piles</string>
+    <string name="number_of_piles_description">Affichage 2,4,6 ou 8 piles de pièces</string>
+    <string name="pile1">- Pile Un - { %1$d }</string>
+    <string name="pile2">-Pile Deux - { %1$d }</string>
+    <string name="pile3">- Pile Trois - { %1$d }</string>
+    <string name="pile4">- Pile Quatre - { %1$d }</string>
+    <string name="pile5">- Pile Cinq - { %1$d }</string>
+    <string name="pile6">- Pile Six - { %1$d }</string>
+    <string name="pile7">- Pile Sept - { %1$d }</string>
+    <string name="pile8">- Pile Huit - { %1$d }</string>
+    <string name="player_turn">Lecteur %1$d tour</string>
+    <string name="reset_quiz">Réinitialiser le Jeu</string>
+    <string name="start_game">Début du Jeu</string>
+    <string name="takeaway_description">Choisissez l’une des quatre sélections ci-dessus pour indiquer combien de piles de pièces que vous désirez dans le jeu. Prendre comme nombre de pièces que vous le souhaitez d’un pieu par tourne jusqu\'à ce qu’il n’y a pas plus de pièces dans un tas. Le dernier d\'entre eux à prendre des pièces en victoires !</string>
+    <string name="takeaway_game">TakeAway Jeu</string>
+</resources>

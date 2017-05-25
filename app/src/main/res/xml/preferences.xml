@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:entries="@array/piles_list"
+        android:entryValues="@array/piles_list"
+        android:key="pref_numberOfPiles"
+        android:title="@string/number_of_piles"
+        android:summary="@string/number_of_piles_description"
+        android:persistent="true"
+        android:defaultValue="8" />
+
+</PreferenceScreen>
